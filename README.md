@@ -61,6 +61,15 @@ net = net.to(device)
 
 net.forward(torch.tensor(..., device=device))
 ```
+
+### How do I install it?
+
+torchsnn is on PyPI so you just need to run
+
+```
+pip install torchsnn
+```
+
 ## Documentation
 
 ### torchsnn.StigmergicModule
