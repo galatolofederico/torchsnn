@@ -6,7 +6,7 @@ This package was wrote with the intent to make as **easy** as possible to integr
 You can safely **mix** native pytorch Modules with ours.  
 The only **catch** is that you should use *StigmergicModule* (which extends pytorch's *Module*) as base class for your models in order to be able to *tick()* and *reset()* them.
 
-Implementing our [proposed architecture to solve MNIST]() becomes as easy as:
+Implementing our [proposed architecture to solve MNIST](http://www.iet.unipi.it/m.cimino/publications/cimino_pub62.pdf#page=8) becomes as easy as:
 ```python
 import torch
 import torchsnn
