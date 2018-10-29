@@ -1,5 +1,5 @@
 # torchsnn
-pytorch implementation of the Stigmergic Neural Networks as presented in the paper [*Using stigmergy to incorporate the time into artificial neural networks*]().
+pytorch implementation of the Stigmergic Neural Networks as presented in the paper [*Using stigmergy to incorporate the time into artificial neural networks*](http://www.iet.unipi.it/m.cimino/publications/cimino_pub62.pdf).
 
 This package was wrote with the intent to make as **easy** as possible to integrate the Stigmergic Neural Networks into the existing models.
 
