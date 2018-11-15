@@ -7,7 +7,7 @@ setuptools.setup(
     name="torchsnn",
     version="0.1.0",
     author="Federico A. Galatolo",
-    author_email="galatolo.federico@gmail.com",
+    author_email="federico.galatolo@ing.unipi.it",
     description="pytorch implementation of Stigmergic Neural Netowrks",
     long_description=long_description,
     long_description_content_type="text/markdown",
